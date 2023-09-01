@@ -1,7 +1,7 @@
 {
     "init": "init.js",
     "patcheds": {
-        "modpack_blocker": "modpack_blocker.js"
+        "modpack_blocker": "patcheds/modpack_blocker.js"
     },
     "information": {
         "version": "beta 1.0",
