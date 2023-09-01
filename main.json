@@ -1,0 +1,12 @@
+{
+    "init": "init.js",
+    "patcheds": {
+        "modpack_blocker": "modpack_blocker.js"
+    },
+    "information": {
+        "version": "beta 1.0",
+        "change_logs": {
+            "beta 1.0": "change_logs/beta-1.0.txt"
+        }
+    }
+}
